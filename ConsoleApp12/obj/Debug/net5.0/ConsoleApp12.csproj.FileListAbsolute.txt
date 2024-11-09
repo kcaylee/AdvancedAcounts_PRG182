@@ -1,0 +1,15 @@
+C:\Users\carst\OneDrive\Documents\Belgium 2022\PRG182\Coding\AdvancedAccounts\ConsoleApp12\bin\Debug\net5.0\ConsoleApp12.exe
+C:\Users\carst\OneDrive\Documents\Belgium 2022\PRG182\Coding\AdvancedAccounts\ConsoleApp12\bin\Debug\net5.0\ConsoleApp12.deps.json
+C:\Users\carst\OneDrive\Documents\Belgium 2022\PRG182\Coding\AdvancedAccounts\ConsoleApp12\bin\Debug\net5.0\ConsoleApp12.runtimeconfig.json
+C:\Users\carst\OneDrive\Documents\Belgium 2022\PRG182\Coding\AdvancedAccounts\ConsoleApp12\bin\Debug\net5.0\ConsoleApp12.runtimeconfig.dev.json
+C:\Users\carst\OneDrive\Documents\Belgium 2022\PRG182\Coding\AdvancedAccounts\ConsoleApp12\bin\Debug\net5.0\ConsoleApp12.dll
+C:\Users\carst\OneDrive\Documents\Belgium 2022\PRG182\Coding\AdvancedAccounts\ConsoleApp12\bin\Debug\net5.0\ConsoleApp12.pdb
+C:\Users\carst\OneDrive\Documents\Belgium 2022\PRG182\Coding\AdvancedAccounts\ConsoleApp12\obj\Debug\net5.0\ConsoleApp12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carst\OneDrive\Documents\Belgium 2022\PRG182\Coding\AdvancedAccounts\ConsoleApp12\obj\Debug\net5.0\ConsoleApp12.AssemblyInfoInputs.cache
+C:\Users\carst\OneDrive\Documents\Belgium 2022\PRG182\Coding\AdvancedAccounts\ConsoleApp12\obj\Debug\net5.0\ConsoleApp12.AssemblyInfo.cs
+C:\Users\carst\OneDrive\Documents\Belgium 2022\PRG182\Coding\AdvancedAccounts\ConsoleApp12\obj\Debug\net5.0\ConsoleApp12.csproj.CoreCompileInputs.cache
+C:\Users\carst\OneDrive\Documents\Belgium 2022\PRG182\Coding\AdvancedAccounts\ConsoleApp12\obj\Debug\net5.0\ConsoleApp12.dll
+C:\Users\carst\OneDrive\Documents\Belgium 2022\PRG182\Coding\AdvancedAccounts\ConsoleApp12\obj\Debug\net5.0\refint\ConsoleApp12.dll
+C:\Users\carst\OneDrive\Documents\Belgium 2022\PRG182\Coding\AdvancedAccounts\ConsoleApp12\obj\Debug\net5.0\ConsoleApp12.pdb
+C:\Users\carst\OneDrive\Documents\Belgium 2022\PRG182\Coding\AdvancedAccounts\ConsoleApp12\obj\Debug\net5.0\ConsoleApp12.genruntimeconfig.cache
+C:\Users\carst\OneDrive\Documents\Belgium 2022\PRG182\Coding\AdvancedAccounts\ConsoleApp12\obj\Debug\net5.0\ref\ConsoleApp12.dll
