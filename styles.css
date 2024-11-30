@@ -1,0 +1,59 @@
+/* styles.css */
+
+/* General styling for the whole page */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #f4f4f9; /* Light gray background */
+    color: #333; /* Dark gray text color */
+  }
+  
+  /* Center the container with padding and box shadow */
+  .container {
+    max-width: 800px;
+    margin: 50px auto; /* Center horizontally and vertically */
+    padding: 20px;
+    background: white; /* White background */
+    border-radius: 10px; /* Rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    text-align: center; /* Center all text inside the container */
+  }
+  
+  /* Styling for the main heading */
+  h1 {
+    color: #007bff; /* Blue heading color */
+    margin-bottom: 20px;
+  }
+  
+  /* Menu section containing buttons */
+  .menu {
+    margin: 20px 0;
+  }
+  
+  /* Button styles */
+  button {
+    background: #007bff; /* Blue background */
+    color: white; /* White text */
+    border: none; /* No border */
+    padding: 10px 20px; /* Padding inside the button */
+    font-size: 16px; /* Larger font size */
+    margin: 10px; /* Space between buttons */
+    border-radius: 5px; /* Rounded corners */
+    cursor: pointer; /* Pointer cursor on hover */
+    transition: background 0.3s ease; /* Smooth hover effect */
+  }
+  
+  /* Hover effect for buttons */
+  button:hover {
+    background: #0056b3; /* Darker blue on hover */
+  }
+  
+  /* Styling for the output section */
+  #output {
+    margin-top: 20px; /* Add space above the output section */
+    text-align: left; /* Align text to the left */
+    font-size: 16px; /* Slightly larger font size for readability */
+    color: #444; /* Medium gray text */
+  }
+  
